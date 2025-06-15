@@ -17,8 +17,11 @@
 ---
 
 ## 🖼️ Capturas de pantalla
+![image](https://github.com/user-attachments/assets/fa05e2a8-288d-425c-849f-e320c21ca3a8)
 
-> *(Puedes agregar imágenes aquí si deseas)*
+![image](https://github.com/user-attachments/assets/2dc3ae31-3101-4ad7-bccc-82c5baeb723a)
+
+![image](https://github.com/user-attachments/assets/9d8f0d1a-4213-4e79-8c9b-c4117bb3156d)
 
 ---
 
