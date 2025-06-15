@@ -2,6 +2,10 @@
 
 **ZapShop** es una tienda virtual de zapatos desarrollada con **PHP**, **MySQL** y **Bootstrap 5**. Permite a los usuarios explorar un catálogo, añadir productos al carrito y simular compras de forma sencilla y visual.
 
+
+🚧 **Proyecto en desarrollo:**  
+Este proyecto aún **no está finalizado**. Algunas características están en proceso de implementación o ajuste.
+
 ---
 
 ## 🚀 Características
