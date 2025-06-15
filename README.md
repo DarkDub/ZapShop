@@ -1,0 +1,49 @@
+# 🛍️ ZapShop
+
+**ZapShop** es una tienda virtual de zapatos desarrollada con **PHP**, **MySQL** y **Bootstrap 5**. Permite a los usuarios explorar un catálogo, añadir productos al carrito y simular compras de forma sencilla y visual.
+
+---
+
+## 🚀 Características
+
+- 🧾 Catálogo dinámico de productos
+- 🛒 Carrito de compras interactivo
+- 💳 Simulación de pagos
+- 👤 Gestión de usuarios (registro y login)
+- 🔐 Sesiones protegidas
+- 📦 Administración de productos activa/inactiva
+- 🌐 Responsive (adaptado para dispositivos móviles y PC)
+
+---
+
+## 🖼️ Capturas de pantalla
+
+> *(Puedes agregar imágenes aquí si deseas)*
+
+---
+
+## ⚙️ Tecnologías utilizadas
+
+- PHP 7+
+- MySQL
+- Bootstrap 5
+- HTML5 + CSS3
+- JavaScript
+- Git & GitHub
+
+---
+
+## 🛠️ Requisitos
+
+- Servidor local (XAMPP, Laragon, etc.)
+- PHP 7.4 o superior
+- phpMyAdmin o similar para gestionar MySQL
+
+---
+
+## 🔧 Instalación local
+
+1. Clona este repositorio:
+
+```bash
+git clone https://github.com/DarkDub/ZapShop.git
