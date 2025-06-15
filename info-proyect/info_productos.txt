@@ -1,0 +1,90 @@
+producto 1:
+nombre: Zoom Freak 2
+precio:$25.18
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 2:
+nombre: zapatillas bajas Rod Laver
+precio:$53,37
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 3:
+nombre: ASMC Winter Boot Cold.Rdy
+precio:$77.32
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 4:
+nombre: Zapatilla clásica 2750 Cotu
+precio:$93.68
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 5:
+nombre: Chanclas mate Foundations
+precio:$97.14
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 6:
+nombre:Sandalia Madrid Hebilla Grande
+precio:$76,24
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 7:
+nombre:Zapatillas ZX 9000 A-ZX Series
+precio:$47.44
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 8:
+nombre:zapatillas ultraboost 21
+precio:$79,81
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 9:
+nombre:
+precio:
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 10:
+nombre:Zapatillas altas Chuck 70
+precio:$92.87
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 11:
+nombre:Bota de invierno ASMC Cold.Rdy
+precio:$77.32
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 12:
+nombre:Zapatillas Lego ZX 8000
+precio:$60.62
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 13:
+nombre:zapatillas bajas Gazelle Vintage
+precio:$43,84
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 14:
+nombre:Sandalia con plantilla suave Arizona
+precio:$85,21
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 15:
+nombre:Kyrie 7 EP Hermandad
+precio:$72.75
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 16:
+nombre:Air Jordan XXXV PF
+precio:$98.42
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto 17:
+nombre:Nike Air Zoom Pegasus 37 AIR Chaz Oso
+precio:$68.71
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+
+producto :
+nombre:
+precio:
+descripcion:Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.
+

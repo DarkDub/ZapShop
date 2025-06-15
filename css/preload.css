@@ -1,0 +1,12 @@
+.centrado{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    aling-items: center;
+}
+.centrado .preload{
+    padding-top: 18rem;
+}
+.hidden{
+    overflow: hidden;
+}

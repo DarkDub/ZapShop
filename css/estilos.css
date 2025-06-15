@@ -1,0 +1,79 @@
+body {
+  background-color: white;
+}
+header .container {
+  width: 93%;
+  margin: auto;
+}
+
+h3 {
+  color: blue;
+}
+
+main > .container {
+  padding: 30px 0;
+}
+
+.card {
+  max-width: 350px;
+}
+.card-img-top {
+  max-width: 390px;
+  max-height: 350px;
+}
+
+.flex-shrink-0 {
+  margin: auto;
+  width: 90%;
+}
+#imagen {
+  border-radius: 10px;
+}
+
+.Container-summary {
+  padding: 15px;
+  max-width: 50%;
+  min-width: 30%;
+  min-height: 300px;
+  max-height: 300px;
+  border: 1px solid rgba(143, 142, 142, 0.685);
+  margin-left: 20px;
+  margin-top: 50px;
+  border-radius: 20px;
+  box-shadow: 0px 5px 5px 0px #aaaaaa;
+}
+.Container-summary {
+  padding: 20px;
+  color: #525252;
+  font-weight: 500;
+}
+.Container-summary .container-items {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Container-summary .total {
+  margin: 30px 0px;
+  padding: 10px 10px;
+}
+.Container-summary .Checkout {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #f7f4f48e;
+  border-radius: 10px;
+  background-color: rgb(33, 245, 61);
+  cursor: pointer;
+  font-weight: 550;
+  color: white;
+  width: 100%;
+}
+#container {
+  background-color: #aaaaaa;
+}
+
+@media (max-width: 620px) {
+  .flex-shrink-0 {
+    margin: auto;
+    width: 70%;
+  }
+}

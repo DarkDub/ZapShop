@@ -1,0 +1,66 @@
+
+Base de datos: 
+
+nombre: dbtienda
+
+procesos
+
+crear = (CREATE DATABASE dbtienda)
+mostrar bases de datos = (SHOW database)
+usar mi base = (USE dbtienda)
+
+(1)creo una tabla llamada productos = 
+
+CREATE TABLE productos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(200),
+    descripcion TEXT,
+    precio DECIMAL(10, 2),
+    descuento SMALLINT,
+    id_categoria INT,
+    activo INT
+);
+
+(2)creo una tabla llamada compra = 
+
+CREATE TABLE compra (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_transaccion VARCHAR(200),
+    fecha DATETIME,
+    status VARCHAR(200),
+    email VARCHAR(50),
+    id_cliente VARCHAR(20),
+    total DECIMAL(10, 2)
+);
+
+
+(3)creo una tabla llamada detalle_compra = 
+
+CREATE TABLE detalle_compra (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_compra INT,
+    id_producto INT,
+    nombre VARCHAR(200),
+    precio DECIMAL(10, 2),
+    cantidad INT
+);
+
+#######
+
+
+insercion el tabla productos:
+
+INSERT INTO productos (nombre, descripcion, precio, descuento, id_categoria, activo)
+VALUES ('sdasd', 'Descripción de un producto de prueba', 29.99, 5, 1, 1);
+
+actualizacion 
+
+UPDATE productos SET precio = 30.30 WHERE id=1;
+
+ELIMINAR TABLA
+
+TRUNCATE para vaciar tabla
+
+ELIMINAR UN PRODUCTO 
+
+DELETE FROM productos WHERE id=1;
