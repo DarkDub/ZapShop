@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"4.8.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"dbtienda"},
+{"type":"table","name":"productos","database":"dbtienda","data":
+[
+{"id":"1","nombre":"Zoom Freak 2","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"25.18","descuento":"10","id_categoria":"1","activo":"1"},
+{"id":"2","nombre":"zapatillas bajas Rod Laver","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"53.37","descuento":"0","id_categoria":"1","activo":"1"},
+{"id":"3","nombre":"ASMC Winter Boot Cold Rdy","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"77.32","descuento":"0","id_categoria":"1","activo":"1"},
+{"id":"4","nombre":"Zapatilla clásica 2750 Cotu","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"93.68","descuento":"5","id_categoria":"1","activo":"1"},
+{"id":"5","nombre":" Zapatilla clásica 2750 Cotu","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"93.68","descuento":"0","id_categoria":"1","activo":"1"},
+{"id":"6","nombre":"Sandalia Madrid Hebilla Grande","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"76.24","descuento":"9","id_categoria":"1","activo":"1"},
+{"id":"7","nombre":"Zapatillas ZX 9000 A-ZX Series","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"47.44","descuento":"4","id_categoria":"1","activo":"1"},
+{"id":"8","nombre":"zapatillas ultraboost 21","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"79.81","descuento":"0","id_categoria":"1","activo":"1"},
+{"id":"9","nombre":"Delta del Jordán","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"60.98","descuento":"0","id_categoria":"1","activo":"1"},
+{"id":"10","nombre":"Zapatillas altas Chuck 70","descripcion":"Con el diseño ondulado original inspirado en los trenes bala japoneses, el Nike Air Max 97 te permite impulsar tu estilo a toda velocidad.\r\n","precio":"92.87","descuento":"10","id_categoria":"1","activo":"1"}
+]
+}
+]

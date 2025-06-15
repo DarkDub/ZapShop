@@ -1,0 +1,100 @@
+base de dato:
+
+nombre: tienda_online
+codigo: uft8_spanish_ci
+
+crear tabla: 
+nombre: productos
+columnas: 6
+
+colums1 : id
+colums2 : nombre = varchar = 200
+colums3 : descripcion = TEXT
+colums4 : precio = decimal
+colums5 : id_categoria = INT
+colums6 : activo = INT
+colums7 : descuento = TINYINT = 3 perzonalizado = 0
+
+conectar database con proyect
+
+usaremos POO (programacion orientada a objetos)
+
+seleccionar tabla
+
+SELECT * FROM `productos`
+
+insertar producto 1
+
+INSERT INTO `productos` (`id`, `nombre`, `descripcion`, `precio`, `id_categoria`, `activo`) VALUES (NULL, 'Zapato De Piel De Borrego', 'Zapato De Piel De Borrego', '$ 599.00', '1', '1');
+
+actualizar 
+
+UPDATE `productos` SET `descripcion` = 'ssdasdas' WHERE `productos`.`id` = 3;
+
+AGREGAR NUEVA TABLA
+
+ALTER TABLE `productos` ADD `descuento` TINYINT(3) NOT NULL DEFAULT '0' AFTER `precio`;
+
+cuenta paypal 
+
+email : sb-jn43ha27572853@personal.example.com
+password: 4Zx^wEUp
+
+tabla(2)
+
+nombre_tabla = compra
+
+colum1 = id = int = primary 
+colum2 = id_transaccion = varchar = 20                        
+colum3 = fecha = datetime   
+colum4 = status = varchar = 20   
+colum5 = email = varchar = 50   
+colum6 = id_cliente = varchar = 20   
+colum7 = total = decimal = 10,2                        
+
+tabla(3)
+
+nombre_tabla =  detalle_compra
+
+colum1 = id = int = primary 
+colum2 = id_compra = int                         
+colum3 = id_producto = int   
+colum4 = nombre = varchar = 200   
+colum5 = precio = decimal = 10,2   
+colum6 = cantidad = int      
+
+nombre_tabla = clientes
+
+colum1 = id = int = primary 
+colum2 = nombres = varchar = 80                         
+colum3 = apellidos = varchar = 80 
+colum4 = email = varchar  = 50   
+colum5 = telefono = varchar = 20   
+colum6 = dni =  varchar = 20
+colum7 = estatus = tinyint
+colum8 = fecha_alta = datetime
+colum9 = fecha_modifica = datetime = null
+colum10 = fecha_baja = datetime   = null   
+
+nombre_tabla = usuarios
+
+colum1 = id = int = primary 
+colum2 = usuario = varchar = 30 = indice = unique                         
+colum3 = password = varchar = 120
+colum4 = activacion = int  = perzonalisado = 0   
+colum5 = token = varchar = 40   
+colum6 = token_password =  varchar = 40 = null
+colum7 = password_request = int = perzonalisado = 0
+colum8 = id_cliente = int  
+
+nombre_tabla = admin
+
+colum1 = id = int = primary 
+colum2 = usuario = varchar = 30                          
+colum3 = password = varchar = 120
+colum4 = nombre = varchar  = 100   
+colum5 = email = varchar = 50   
+colum6 = token_password =  varchar = 40 = null
+colum7 = password_request = tinyint = perzonalisado = 0
+colum8 = activo = tinyint 
+colum9 = fecha_alta = datetime
