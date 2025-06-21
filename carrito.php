@@ -67,7 +67,7 @@ if ($productos != null) {
                     if($lista_carrito == null){
                         
                         echo'<tr>
-                        <td colspan="5" class="text-center"><b> lista vacia</b>
+                        <td colspan="5" class="text-center"><b>lista vacia</b>
                         </td>
                         
                         </tr>';
